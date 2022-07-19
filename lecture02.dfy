@@ -1,4 +1,4 @@
-// set theory
+// set theory 
 const s1 := {1, 9, 4} //extentional definition of a set
 const s2 := {4, 9, 1, 4, 1}
 const s3 := {1,4}
